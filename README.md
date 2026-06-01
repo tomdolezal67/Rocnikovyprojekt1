@@ -185,59 +185,6 @@ Counter-Strike je také esportová hra, což znamená:
 - Ti nejlepší si dokážou dost pěkně vydělat.
 
 
-## 10. Síťová komunikace a herní servery
-
-Counter-Strike 2 je online hra, což znamená, že hráči nejsou připojeni přímo mezi sebou, ale komunikují přes herní server.
-
-Server je počítač, který zpracovává informace od všech hráčů a následně je rozesílá ostatním. Díky tomu mají všichni hráči stejné informace o průběhu hry.
-
-## 11. Ping
-
-Důležitým pojmem je ping. Ping udává dobu, za kterou se informace dostane od hráče na server a zpět.
-
-Ping se měří v milisekundách (ms).
-
-Nízký ping znamená rychlejší odezvu hry:
-
-- 0–30 ms = velmi dobré připojení
-
-- 30–60 ms = dobré připojení
-
-- 60–100 ms = hratelné připojení
-
-- nad 100 ms = mohou se objevovat problémy s odezvou
-
-## 12. Packet Loss
-
-Dalším důležitým parametrem je packet loss.
-
-Jedná se o ztrátu datových paketů během komunikace mezi hráčem a serverem.
-
-Pokud je packet loss příliš vysoký, může docházet k:
-
-- sekání hry
-
-- teleportování hráčů
-
-- zpožděné registraci zásahů
-
-## 13. Sub-Tick systém v CS2
-
-Counter-Strike 2 používá technologii nazývanou Sub-Tick.
-
-Ve starších verzích hry server zpracovával informace pouze v určitých časových intervalech.
-
-Sub-Tick systém umožňuje zaznamenat akce hráče přesněji a server tak dokáže lépe určit okamžik výstřelu nebo pohybu.
-
-- Díky tomu je hra plynulejší a přesnější, zejména na vyšší úrovni hraní.
-
-## 14. Význam serverů
-
-Bez serverů by nebylo možné hrát online zápasy ani pořádat profesionální turnaje.
-
-Servery zajišťují férové podmínky pro všechny hráče a umožňují synchronizaci celé hry v reálném čase.
-
-
 ## 15. Zajímavosti 
 
 CS:GO bylo dlouhou dobu jednou z nejhranějších her na Steamu. 
