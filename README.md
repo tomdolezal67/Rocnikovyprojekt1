@@ -185,7 +185,7 @@ Counter-Strike je také esportová hra, což znamená:
 - Ti nejlepší si dokážou dost pěkně vydělat.
 
 
-## 15. Zajímavosti 
+## 10. Zajímavosti 
 
 CS:GO bylo dlouhou dobu jednou z nejhranějších her na Steamu. 
 
@@ -193,7 +193,7 @@ CS:GO bylo dlouhou dobu jednou z nejhranějších her na Steamu.
 V roce 2023 byla nahrazena novější verzí Counter-Strike 2. 
 
 
-## 16. Závěr této části a co plánuji dál?
+## 11. Závěr této části a co plánuji dál?
 
 
 ### Závěr
